@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1224">
+  <meta name="description" content="Media Pembelajaran Interaktif Informatika Kelas X: Sistem Operasi dan Perancangan Sistem Komputer.">
+  <title>MPI Informatika Kelas X | Sistem Komputer</title>
+  <link rel="icon" href="assets/img/mpi-mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script defer src="assets/js/app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Navigasi utama">
+      <a class="brand" href="#" data-view="home" aria-label="MPI Informatika beranda">
+        <span class="brand-mark">M<span>i</span></span>
+        <span class="brand-copy"><strong>MPI<span>LAB</span></strong><small>INFORMATIKA • KELAS X</small></span>
+      </a>
+
+      <div class="sidebar-label">RUANG BELAJAR</div>
+      <nav class="side-nav">
+        <button class="nav-link active" data-view="home"><span class="nav-icon">⌂</span><span>Menu Utama</span></button>
+        <button class="nav-link" data-view="objectives"><span class="nav-icon">◎</span><span>Tujuan Pembelajaran</span></button>
+        <button class="nav-link" data-view="guide"><span class="nav-icon">▤</span><span>Panduan</span></button>
+        <button class="nav-link" data-view="material"><span class="nav-icon">▣</span><span>Materi Interaktif</span><span class="nav-count">04</span></button>
+        <button class="nav-link" data-view="quiz"><span class="nav-icon">✦</span><span>Kuis</span></button>
+        <button class="nav-link" data-view="certificate"><span class="nav-icon">▧</span><span>Sertifikat</span></button>
+      </nav>
+
+      <div class="sidebar-label sidebar-label-spaced">INFORMASI</div>
+      <nav class="side-nav">
+        <button class="nav-link" data-view="profile"><span class="nav-icon">♙</span><span>Profil Pengembang</span></button>
+        <button class="nav-link" data-view="references"><span class="nav-icon">⌘</span><span>Referensi</span></button>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="sidebar-mini-card">
+          <div class="mini-orbit">✳</div>
+          <strong>Belajar, eksplorasi, dan praktik.</strong>
+          <p>Bangun pemahaman sistem komputer melalui simulasi.</p>
+        </div>
+        <div class="sidebar-foot"><span class="status-dot"></span> Media belajar mandiri <span>v1.0</span></div>
+      </div>
+    </aside>
+
+    <div class="main-shell">
+      <header class="topbar">
+        <div class="topbar-left">
+          <button class="icon-button mobile-menu" id="mobileMenu" aria-label="Buka navigasi">☰</button>
+          <div class="breadcrumb"><span>MPI LAB</span><i>/</i><span id="breadcrumbCurrent">Menu Utama</span></div>
+          <h1 id="pageTitle">Sistem Operasi &amp; Perancangan Sistem Komputer</h1>
+        </div>
+        <div class="topbar-actions">
+          <div class="top-progress" title="Progres pembelajaran">
+            <div class="top-progress-copy"><span>PROGRES</span><strong id="progressPercent">0%</strong></div>
+            <div class="progress-track"><span id="progressBar"></span></div>
+          </div>
+          <label class="user-chip" title="Nama peserta didik">
+            <span class="user-avatar" id="userInitial">P</span>
+            <input id="userNameInput" type="text" maxlength="40" placeholder="Nama peserta didik" aria-label="Nama peserta didik">
+          </label>
+          <button class="icon-button" id="soundToggle" aria-label="Aktifkan suara" title="Suara aktif/nonaktif">♫</button>
+          <button class="icon-button" id="fullscreenToggle" aria-label="Layar penuh" title="Layar penuh">⛶</button>
+          <button class="menu-home-button" id="homeButton">↩ <span>Menu Utama</span></button>
+        </div>
+      </header>
+
+      <main id="appContent" class="content-area" tabindex="-1">
+        <div class="loading-state">Menyiapkan ruang belajar...</div>
+      </main>
+
+      <footer class="app-footer">
+        <span>MPI Informatika Kelas X</span>
+        <span>Belajar aktif • Berpikir kritis • Berkarya digital</span>
+      </footer>
+    </div>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

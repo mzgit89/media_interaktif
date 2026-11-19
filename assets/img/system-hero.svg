@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" fill="none">
+<defs><linearGradient id="a" x1="70" y1="40" x2="430" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#55E4E8"/><stop offset=".55" stop-color="#6C8CFF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><linearGradient id="b" x1="170" y1="120" x2="350" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#233D61"/><stop offset="1" stop-color="#101B31"/></linearGradient></defs>
+<circle cx="260" cy="180" r="138" stroke="#6F9BCB" stroke-opacity=".18" stroke-width="1.5"/><circle cx="260" cy="180" r="110" stroke="#55E4E8" stroke-opacity=".18" stroke-dasharray="4 9"/>
+<path d="M260 42v-18m0 332v-18M122 180h-18m312 0h-18" stroke="#55E4E8" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<rect x="164" y="92" width="192" height="166" rx="20" fill="url(#b)" stroke="url(#a)" stroke-width="2"/>
+<rect x="185" y="113" width="150" height="92" rx="10" fill="#0B1425" stroke="#41648D"/>
+<path d="M204 140h112M204 155h82M204 170h96" stroke="#55E4E8" stroke-opacity=".7" stroke-width="5" stroke-linecap="round"/>
+<rect x="220" y="220" width="80" height="7" rx="3.5" fill="#52739B"/><path d="M260 258v20m-48 0h96" stroke="#6D8EB7" stroke-width="6" stroke-linecap="round"/>
+<rect x="54" y="125" width="82" height="62" rx="12" fill="#142844" stroke="#6C8CFF" stroke-width="1.5"/><path d="M72 145h46M72 157h32M72 169h39" stroke="#91AFFF" stroke-width="4" stroke-linecap="round"/><path d="M136 156h28" stroke="#6C8CFF" stroke-width="2" stroke-dasharray="4 5"/>
+<rect x="385" y="95" width="82" height="62" rx="12" fill="#142844" stroke="#A78BFA" stroke-width="1.5"/><circle cx="426" cy="126" r="17" stroke="#C4B5FD" stroke-width="3"/><path d="M426 115v12l8 5" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round"/><path d="M356 126h29" stroke="#A78BFA" stroke-width="2" stroke-dasharray="4 5"/>
+<rect x="215" y="300" width="90" height="38" rx="10" fill="#142844" stroke="#55E4E8" stroke-width="1.5"/><path d="M235 319h50" stroke="#55E4E8" stroke-width="4" stroke-linecap="round"/><path d="M260 278v22" stroke="#55E4E8" stroke-width="2" stroke-dasharray="4 5"/>
+<circle cx="95" cy="74" r="5" fill="#55E4E8"/><circle cx="426" cy="220" r="5" fill="#A78BFA"/><circle cx="365" cy="292" r="4" fill="#6C8CFF"/>
+<path d="M95 74l30 20m301 126-30 20m-31 52-20-8" stroke="url(#a)" stroke-width="1.5" stroke-dasharray="3 5"/>
+<text x="260" y="185" fill="#DFFBFF" font-family="Arial" font-size="14" font-weight="700" text-anchor="middle">SYSTEM</text>
+</svg>

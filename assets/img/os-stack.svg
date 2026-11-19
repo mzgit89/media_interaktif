@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" fill="none">
+<rect x="10" y="10" width="880" height="250" rx="20" fill="#0D192C" stroke="#2C4668"/>
+<g font-family="Arial" text-anchor="middle">
+<rect x="80" y="35" width="740" height="42" rx="10" fill="#1A3150" stroke="#6C8CFF"/><text x="450" y="61" fill="#BFD0FF" font-size="15" font-weight="700">PENGGUNA</text>
+<path d="M450 77v17" stroke="#55E4E8" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="80" y="96" width="740" height="42" rx="10" fill="#1B2946" stroke="#A78BFA"/><text x="450" y="122" fill="#D4C8FF" font-size="15" font-weight="700">APLIKASI • BROWSER • EDITOR • GAME</text>
+<path d="M450 138v17" stroke="#55E4E8" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="80" y="157" width="740" height="48" rx="10" fill="#153A4A" stroke="#55E4E8" stroke-width="2"/><text x="450" y="187" fill="#9BFAF4" font-size="16" font-weight="700">SISTEM OPERASI</text>
+<path d="M450 205v14" stroke="#55E4E8" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="80" y="220" width="740" height="25" rx="8" fill="#24334B" stroke="#617C9E"/><text x="450" y="237" fill="#C5D4E8" font-size="12" font-weight="700">HARDWARE • CPU • MEMORI • STORAGE • PERANGKAT I/O</text>
+</g></svg>

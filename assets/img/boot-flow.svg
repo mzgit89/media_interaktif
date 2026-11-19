@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" fill="none">
+<rect x="10" y="10" width="880" height="210" rx="20" fill="#0D192C" stroke="#2C4668"/>
+<g font-family="Arial" text-anchor="middle">
+<g><rect x="35" y="72" width="145" height="75" rx="12" fill="#172B46" stroke="#55E4E8"/><text x="107" y="101" fill="#55E4E8" font-size="13" font-weight="700">POWER ON</text><text x="107" y="122" fill="#C3D5EC" font-size="11">Daya aktif</text></g>
+<g><rect x="210" y="72" width="145" height="75" rx="12" fill="#172B46" stroke="#6C8CFF"/><text x="282" y="101" fill="#A9BCFF" font-size="13" font-weight="700">BIOS / UEFI</text><text x="282" y="122" fill="#C3D5EC" font-size="11">Firmware</text></g>
+<g><rect x="385" y="72" width="145" height="75" rx="12" fill="#172B46" stroke="#A78BFA"/><text x="457" y="101" fill="#CBBEFF" font-size="13" font-weight="700">POST</text><text x="457" y="122" fill="#C3D5EC" font-size="11">Pemeriksaan awal</text></g>
+<g><rect x="560" y="72" width="145" height="75" rx="12" fill="#172B46" stroke="#6C8CFF"/><text x="632" y="101" fill="#A9BCFF" font-size="13" font-weight="700">BOOTLOADER</text><text x="632" y="122" fill="#C3D5EC" font-size="11">Memuat kernel</text></g>
+<g><rect x="735" y="72" width="130" height="75" rx="12" fill="#153A4A" stroke="#55E4E8"/><text x="800" y="101" fill="#9BFAF4" font-size="13" font-weight="700">OS READY</text><text x="800" y="122" fill="#C3D5EC" font-size="11">Siap digunakan</text></g>
+<path d="M180 109h30m-7-7 7 7-7 7M355 109h30m-7-7 7 7-7 7M530 109h30m-7-7 7 7-7 7M705 109h30m-7-7 7 7-7 7" stroke="#55E4E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="450" y="184" fill="#8298B6" font-size="11">Ilustrasi konseptual • urutan detail dapat berbeda menurut platform</text>
+</g></svg>

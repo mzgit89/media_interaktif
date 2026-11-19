@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" fill="none">
+<rect x="10" y="10" width="880" height="240" rx="20" fill="#0D192C" stroke="#2C4668"/>
+<g font-family="Arial" text-anchor="middle">
+<rect x="60" y="60" width="170" height="140" rx="15" fill="#172B46" stroke="#55E4E8" stroke-width="2"/><rect x="95" y="91" width="100" height="72" rx="8" fill="#0B1425" stroke="#5A83A9"/><path d="M112 111h66m-66 14h66m-66 14h45" stroke="#55E4E8" stroke-width="4" stroke-linecap="round"/><text x="145" y="185" fill="#C7D9F0" font-size="12">CPU</text>
+<rect x="275" y="60" width="170" height="140" rx="15" fill="#172B46" stroke="#A78BFA" stroke-width="2"/><rect x="320" y="95" width="80" height="52" rx="7" fill="#0B1425" stroke="#A78BFA"/><path d="M332 86v-9m18 9v-9m18 9v-9m18 9v-9m-54 78v9m18-9v9m18-9v9m18-9v9" stroke="#C4B5FD" stroke-width="3"/><text x="360" y="185" fill="#C7D9F0" font-size="12">RAM</text>
+<rect x="490" y="60" width="170" height="140" rx="15" fill="#172B46" stroke="#6C8CFF" stroke-width="2"/><rect x="530" y="94" width="90" height="56" rx="7" fill="#0B1425" stroke="#6C8CFF"/><circle cx="550" cy="122" r="7" stroke="#A9BCFF" stroke-width="2"/><path d="M568 114h37m-37 13h37" stroke="#A9BCFF" stroke-width="3" stroke-linecap="round"/><text x="575" y="185" fill="#C7D9F0" font-size="12">SSD</text>
+<rect x="705" y="60" width="135" height="140" rx="15" fill="#172B46" stroke="#F4C96B" stroke-width="2"/><rect x="735" y="90" width="75" height="54" rx="6" fill="#0B1425" stroke="#F4C96B"/><path d="M746 130l15-20 12 12 11-14 15 22" stroke="#F4C96B" stroke-width="2"/><text x="772" y="185" fill="#C7D9F0" font-size="12">GPU</text>
+<text x="450" y="228" fill="#8298B6" font-size="11">Contoh komponen utama • spesifikasi dan kompatibilitas harus diperiksa</text>
+</g></svg>
